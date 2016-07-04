@@ -4,3 +4,14 @@ version = "0.1.0"
 authors = ["Luo <gnulinux@126.com>"]
 
 [dependencies]
+log      = "0.3.6"
+jsonrpc2 = "0.1.1"
+redis    = "0.5.3"
+bson     = "0.2.0"
+mongodb  = "0.1.4"
+time     = "0.1.35"
+hyper    = "0.9.9"
+uuid     = { version = "0.2", features = ["v4"] }
+
+rust-crypto     = "0.2.36"
+rustc-serialize = "0.3.19"
