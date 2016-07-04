@@ -3,4 +3,4 @@
 tornado=="4.1"
 jsonrpc2=="0.4"
 pymongo=="3.2.2"
-bson=="*"
+# bson=="*"
